@@ -1,5 +1,6 @@
 # Electric-Car-Problem-2
 
+
 The above problem has been solved using Python language. The logic behind the designed
 algorithm is that the at every stop, the car should have charge which is twice the cost of
 travelling from one particular stop to the next stop so that if the next stop is not functional, and
