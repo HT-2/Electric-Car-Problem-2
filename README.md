@@ -4,6 +4,7 @@ The above problem has been solved using Python language. The logic behind the de
 the car does not have enough charge to travel to the next stop, then it must have enough
 charge to get back to the previous stop at least.
 
+
   
 The time complexity for the designed algorithm 
 is linear : O(n). As far as space complexity is concerned, I first used linked list as the data
